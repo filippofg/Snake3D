@@ -33,3 +33,4 @@ Argomenti:
 
 Progetto per il corso di Grafica Computerizzata UniFe aa 2019-2020.
 Devs: Filippo Faggion, Davide Franzoso, Fabio Giannino.
+ - Fabio Giannino https://github.com/FabioGiannino
