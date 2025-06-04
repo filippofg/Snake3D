@@ -1,5 +1,7 @@
 # Snake 3D
 
+(Reupload da altra piattaforma git)
+
 Una implementazione del gioco Snake con visuale in 3D in C+OpenGL+GLUT.
 
 Features:
